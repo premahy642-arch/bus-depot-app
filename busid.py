@@ -1,0 +1,1 @@
+print("bus ticket readdy to print")
